@@ -5,7 +5,6 @@ Carica\Io\Loader::register();
 
 use Carica\Io as Io;
 use Carica\Firmata as Firmata;
-use Carica\Chip as Chip;
 
 if (@include(__DIR__ . '/configuration.php')) {
   if (!defined('CARICA_FIRMATA_SERIAL_BAUD')) {
