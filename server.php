@@ -1,6 +1,4 @@
 <?php
-require(__DIR__.'/vendor/autoload.php');
-
 $board = include(__DIR__.'/bootstrap.php');
 
 $board
