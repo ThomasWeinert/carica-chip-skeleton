@@ -1,0 +1,14 @@
+{
+  "name": "carica/chip-skeleton",
+  "description": "Skeleton for Carica Chip projects",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Thomas Weinert",
+      "email": "thomas@weinert.info"
+    }
+  ],
+  "require": {
+    "carica/chip": "dev-master"
+  }
+}

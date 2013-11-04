@@ -1,0 +1,15 @@
+# Eclipse
+/.project
+/.buildpath
+/.settings
+# PHPStorm
+/.idea
+# NetBeans
+/nbproject
+
+# Composer
+/vendor
+
+# Installation specific configuration
+/configuration.php
+
