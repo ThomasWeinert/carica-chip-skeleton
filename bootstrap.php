@@ -1,8 +1,6 @@
 <?php
 require(__DIR__ . '/vendor/autoload.php');
 
-Carica\Io\Loader::register();
-
 use Carica\Io as Io;
 use Carica\Firmata as Firmata;
 
