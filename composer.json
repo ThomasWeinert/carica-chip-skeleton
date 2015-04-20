@@ -12,6 +12,7 @@
     }
   ],
   "require": {
-    "carica/chip": "dev-master"
+    "carica/chip": "dev-master",
+    "carica/firmata": "dev-master"
   }
 }
